@@ -69,24 +69,6 @@ Locate the index.html file in the project folder.
 
 Double-click it to open it in your default web browser.
 
-📸 Screenshots
-
-<img width="1911" height="949" alt="image" src="https://github.com/user-attachments/assets/ba6a512c-031d-4710-8b59-50bacbbc6d12" />
-
-<img width="1917" height="948" alt="image" src="https://github.com/user-attachments/assets/7c396ffb-4a18-4b41-8d3f-bde5a460a174" />
-
-<img width="1917" height="951" alt="image" src="https://github.com/user-attachments/assets/8026ec45-14fd-4752-a30d-9221958f3e21" />
-
-<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/79814a2e-b538-4383-bed7-c79c4a493c8e" />
-
-<img width="1914" height="947" alt="image" src="https://github.com/user-attachments/assets/fe942014-84af-4029-b9db-8e68fe6d9665" />
-
-<img width="1918" height="950" alt="image" src="https://github.com/user-attachments/assets/81987e0d-da42-4e94-a36b-b5a706ac01b5" />
-
-<img width="1918" height="948" alt="image" src="https://github.com/user-attachments/assets/7936fb9f-edf0-4b84-860b-3d3cbcd3ffa4" />
-
-<img width="1918" height="950" alt="image" src="https://github.com/user-attachments/assets/7d3a8bcf-4308-4716-aca7-cd75df80c5c8" />
-
 🤝 Contributing
 
 Contributions are welcome! If you want to add JavaScript interactivity (like a working contact form or dynamic course loading), feel free to fork the repo.
